@@ -1,6 +1,6 @@
 ## The Dataset
-Number of columns (variables): 67
-Number of rows
+- Number of columns (variables): 67
+- Number of rows: 181
 
 ## Variables
 1. SubjectNum : It represents the number of subject in the dataset. 
