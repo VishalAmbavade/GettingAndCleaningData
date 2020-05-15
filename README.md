@@ -1,4 +1,4 @@
-## Project
+## Project Description
 - There's a R script which contains all the code.
 - The first block of the code reads activity_labels.txt file and assign column names.
 - The second block reads the training files X_train, y_train and subject_train.txt resp.
