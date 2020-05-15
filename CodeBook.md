@@ -1,8 +1,8 @@
-##The Dataset
+## The Dataset
 Number of columns (variables): 67
 Number of rows
 
-##Variables
+## Variables
 1. SubjectNum : It represents the number of subject in the dataset. 
 				It ranges from 1 to 30.
 2. Activity : It represents the activity name.
@@ -18,7 +18,7 @@ Number of rows
 				Each column represnts a unique feature along with it's data.
 
 
-##Cleaning
+## Cleaning
 - activity_labels.txt is read first and column names are asssigned for better handling.
 - Them features from features.txt file are read. from that required features (only with mean and std) are separated and a vector is made to store
   those values.
